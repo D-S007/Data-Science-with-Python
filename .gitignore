@@ -172,4 +172,5 @@ cython_debug/
 
 # To avoid pushing the virtual environment to version control, updating gitignore file with following commands
 .dsvn/
+.venv/
 .ipynb_checkpoints/
