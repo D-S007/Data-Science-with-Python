@@ -174,3 +174,4 @@ cython_debug/
 dsvn/
 .venv/
 .ipynb_checkpoints/
+Machine_learning_Projects/Content_based_Recommender_system/similarity.pkl
