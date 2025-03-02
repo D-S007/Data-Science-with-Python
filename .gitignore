@@ -171,6 +171,6 @@ cython_debug/
 .pypirc
 
 # To avoid pushing the virtual environment to version control, updating gitignore file with following commands
-.dsvn/
+dsvn/
 .venv/
 .ipynb_checkpoints/
